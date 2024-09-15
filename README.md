@@ -13,7 +13,6 @@
 - 🌱 Atualmente aprendendo **Dart/Flutter**
 - 👯 Procurando colaborar em projetos Open Source de **Desenvolvimento Mobile e Web**
 - 💬 Pergunte-me sobre **Flutter, Python, Django, APIs, e automação com Selenium**
-- 🎯 Meu objetivo é **desenvolver soluções que impactem positivamente as pessoas**
   
 ---
 
