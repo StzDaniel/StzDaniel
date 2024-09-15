@@ -1,5 +1,3 @@
-<h1 align="center">Olá 👋, Eu sou Daniel</h1>
-
 <h3 align="center">Desenvolvedor Full Stack com foco em Flutter e Python</h3>
 
 <p align="center">
