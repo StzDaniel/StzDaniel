@@ -47,7 +47,7 @@
   - **Tecnologias:** Flutter, Dart, HTML
   <br>🔴 Repositório ainda privado
 
-### 🌐 **[API com Django](https://github.com/StzDaniel/Django_UEFS)**
+### 🌐 **[API com Django](https://github.com/StzDaniel/Django-UEFS)**
   - **Descrição:** API RESTful para integração com o projeto Flutter
   - **Tecnologias:** Django, PostgreSQL, Docker
 
