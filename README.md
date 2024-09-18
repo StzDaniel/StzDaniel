@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor Full Stack com foco em Flutter e Python</h3>
+<h3 align="center">Desenvolvedor Mobile </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
