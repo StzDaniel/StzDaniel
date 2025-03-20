@@ -9,7 +9,7 @@
 ## 🔥 Sobre mim
 
 - 🌱 Atualmente aprendendo **C#/.NET**
-- 👯 Procurando colaborar em projetos Open Source de **Desenvolvimento Mobile e Web**
+- 🔃 Procurando colaborar em projetos Open Source de **Desenvolvimento Mobile e Web**
 - 💬 Pergunte-me sobre **Flutter, Python, Django, APIs, e automação com Selenium**
   
 ---
